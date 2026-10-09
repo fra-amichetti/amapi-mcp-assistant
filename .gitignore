@@ -1,0 +1,37 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*credentials*.json
+*credenziali*.json
+*.sqlite
+*.sqlite3
+*.db
+*.log
+.DS_Store
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+*credentials*.json
+*credenziali*.json
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# macOS
+.DS_Store
