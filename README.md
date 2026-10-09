@@ -57,7 +57,7 @@ FastAPI backend (backend/app.py)
 ## Setup
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/fra-amichetti/amapi-mcp-assistant.git
 cd amapi-mcp-assistant
 python3 -m venv .venv
 source .venv/bin/activate        # macOS/Linux
